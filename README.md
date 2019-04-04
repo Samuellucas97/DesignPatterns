@@ -1,25 +1,16 @@
-# Design Patterns
+# Design Patterns  
 
-# LibraryManage 
+## Introduction    
 
-## Introdução  
+In this repository is the activity on [Project Standards](https://en.wikipedia.org/wiki/Software_design_pattern) made in the discipline *** Detailed Software Project *** of the bachelor of Information Technology (** UFRN **).
 
-Neste repositório encontra-se o projeto LibraryManage feito na disciplina ***Projeto Detalhado de Software*** do bacharelado de _Tecnologia da Informação_ ( **UFRN** ).
-
-- [Sobre o LibraryManage](#sobre-o-librarymanage) - Informações sobre a aplicação denominada Library Manage. 
-- [Links de referência](#links-de-referência) - Links relacionados ao projeto.
+- [About Design Patterns](#about-design-patterns) - Information about design patterns.
 - [Authors](#authors) - Authors who worked on the project.  
 
 
-## Sobre o LibraryManage  
+## About Design Patterns   
 
-Trata-se de um sistema de controle de estoque que gerencia o inventário de bibliotecas e provê informações sobre a quantidade e disponsabilidade, além de incluir um sitema de rankings.
-  
-## Links de referência 
-
-<p align="left">
-<a href="https://junit.org/junit5/"><img src="https://cdn-images-1.medium.com/max/982/1*AiTBjfsoj3emarTpaeNgKQ.png" width="14%"  />
-</p>
+In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
 
 ## Authors 
 
