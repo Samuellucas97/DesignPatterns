@@ -2,7 +2,7 @@
 
 ## Introduction    
 
-In this repository is the activity on [Project Standards](https://en.wikipedia.org/wiki/Software_design_pattern) made in the discipline *** Detailed Software Project *** of the bachelor of Information Technology (** UFRN **).
+In this repository is the activity on [Project Standards](https://en.wikipedia.org/wiki/Software_design_pattern) made in the discipline ***Detailed Software Project*** of the bachelor of Information Technology (**UFRN**).
 
 - [About Design Patterns](#about-design-patterns) - Information about design patterns.
 - [Authors](#authors) - Authors who worked on the project.  
